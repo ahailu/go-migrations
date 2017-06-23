@@ -1,0 +1,4 @@
+package: github.com/paperlesspost/migrations
+import:
+- package: github.com/DavidHuie/gomigrate
+- package: github.com/lib/pq

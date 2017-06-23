@@ -1,4 +1,4 @@
-package: github.com/paperlesspost/migrations
+package: github.com/ahailu/go-migrations
 import:
 - package: github.com/DavidHuie/gomigrate
 - package: github.com/lib/pq
